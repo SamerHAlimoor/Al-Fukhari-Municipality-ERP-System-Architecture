@@ -46,4 +46,20 @@ Handover: The project was officially handed over to the municipal administration
 
 Visual Proof: I have included a set of Screenshots in this repository (or available upon request) showing the dashboard and various department interfaces to demonstrate the system's functionality while ensuring sensitive data remains obscured.
 
+🖼 System Interface Showcase
+Below is a collection of screenshots from the live system. These images demonstrate the user interface (UI), the dashboard architecture, and various departmental modules. (Note: All sensitive and personal data has been obscured to maintain privacy).
 
+ <img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/1.png" alt="Image 1">
+<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/1.png" alt="Image 1"> 
+<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/2.png" alt="Image 1"> 
+<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/2.png" alt="Image 1">
+<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/3.png" alt="Image 1">
+<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/4.png" alt="Image 1">
+<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/5.png" alt="Image 1">
+<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/6.png" alt="Image 1">
+<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/7.png" alt="Image 1">
+<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/8.png" alt="Image 1">
+<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/9.png" alt="Image 1">
+<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/10.png" alt="Image 1">
+<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/11.png" alt="Image 1">
+<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/12.png" alt="Image 1">
