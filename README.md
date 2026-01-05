@@ -52,11 +52,20 @@ Below is a collection of screenshots from the live system. These images demonstr
 .
 .
 
- <img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/1.png" alt="Image 1">
-<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/1.png" alt="Image 1"> 
-<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/2.png" alt="Image 1"> 
-<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/2.png" alt="Image 1">
-<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/3.png" alt="Image 1">
+ <img src="https://github.com/SamerHAlimoor/Al-Fukhari-Municipality-ERP-System-Architecture/blob/main/1.png" alt="Image 1">
+
+<img src="https://github.com/SamerHAlimoor/Al-Fukhari-Municipality-ERP-System-Architecture/blob/main/2.png" alt="Image 1">
+<img src="https://github.com/SamerHAlimoor/Al-Fukhari-Municipality-ERP-System-Architecture/blob/main/3.png" alt="Image 1">
+<img src="https://github.com/SamerHAlimoor/Al-Fukhari-Municipality-ERP-System-Architecture/blob/main/6.png" alt="Image 1">
+
+<img src="https://github.com/SamerHAlimoor/Al-Fukhari-Municipality-ERP-System-Architecture/blob/main/7.png" alt="Image 1">
+
+<img src="https://github.com/SamerHAlimoor/Al-Fukhari-Municipality-ERP-System-Architecture/blob/main/9.png" alt="Image 1">
+<img src="https://github.com/SamerHAlimoor/Al-Fukhari-Municipality-ERP-System-Architecture/blob/main/12.png" alt="Image 1">
+
+<img src="https://github.com/SamerHAlimoor/Al-Fukhari-Municipality-ERP-System-Architecture/blob/main/20260104_185811.png" alt="Image 1">
+
+
 <img src="https://github.com/SamerHAlimoor/Al-Fukhari-Municipality-ERP-System-Architecture/blob/main/20260104_185811.png" alt="Image 1">
 <img src="https://github.com/SamerHAlimoor/Al-Fukhari-Municipality-ERP-System-Architecture/blob/main/20260104_185927.png" alt="Image 1">
 <img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/6.png" alt="Image 1">
