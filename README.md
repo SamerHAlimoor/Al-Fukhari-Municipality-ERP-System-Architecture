@@ -48,7 +48,7 @@ Visual Proof: I have included a set of Screenshots in this repository (or availa
 
 🖼 System Interface Showcase
 Below is a collection of screenshots from the live system. These images demonstrate the user interface (UI), the dashboard architecture, and various departmental modules. (Note: All sensitive and personal data has been obscured to maintain privacy).
-
+https://github.com/SamerHAlimoor/Al-Fukhari-Municipality-ERP-System-Architecture/blob/main/20260104_185811.png
  <img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/1.png" alt="Image 1">
 <img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/1.png" alt="Image 1"> 
 <img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/2.png" alt="Image 1"> 
@@ -61,5 +61,5 @@ Below is a collection of screenshots from the live system. These images demonstr
 <img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/8.png" alt="Image 1">
 <img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/9.png" alt="Image 1">
 <img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/10.png" alt="Image 1">
-<img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/11.png" alt="Image 1">
+<img src="https://github.com/SamerHAlimoor/Al-Fukhari-Municipality-ERP-System-Architecture/blob/main/20260104_185811.png" alt="Image 1">
 <img src="https://github.com/SamerHAlimoor/alfukhari_management/blob/main/public/images_github/12.png" alt="Image 1">
